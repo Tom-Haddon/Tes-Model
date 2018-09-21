@@ -1,0 +1,34 @@
+<annotation>
+  <folder>Tes_Model/images</folder>
+  <filename>000732.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>5246</width>
+    <height>3275</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>wheel</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1004</xmin>
+      <ymin>1410</ymin>
+      <xmax>1744</xmax>
+      <ymax>3050</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>wheel</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>31</xmin>
+      <ymin>1135</ymin>
+      <xmax>316</xmax>
+      <ymax>1950</ymax>
+    </bndbox>
+  </object>
+</annotation>

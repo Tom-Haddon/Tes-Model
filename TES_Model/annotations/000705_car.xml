@@ -1,0 +1,22 @@
+<annotation>
+  <folder>TES_Model/images</folder>
+  <filename>000705.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>717</width>
+    <height>478</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>129</xmin>
+      <ymin>103</ymin>
+      <xmax>582</xmax>
+      <ymax>398</ymax>
+    </bndbox>
+  </object>
+</annotation>

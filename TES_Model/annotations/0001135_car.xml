@@ -1,0 +1,34 @@
+<annotation>
+  <folder>TES_Model/images</folder>
+  <filename>0001135.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>4464</width>
+    <height>4504</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>257</xmin>
+      <ymin>430</ymin>
+      <xmax>3779</xmax>
+      <ymax>2002</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>367</xmin>
+      <ymin>2600</ymin>
+      <xmax>3706</xmax>
+      <ymax>4184</ymax>
+    </bndbox>
+  </object>
+</annotation>
